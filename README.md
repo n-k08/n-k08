@@ -5,7 +5,7 @@
 - Engineeing at Sri ramachandra Faculty of Engineering and Technology
 
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/nithish-kumar-o8) 
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nithish-kumar-o8) 
 
 ### I code in
 <p>
@@ -36,4 +36,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/nithishkumarytsnk?theme=dark&font=Lustria&ext=contest)
 
-([![Nithish Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n-k08&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
+[![Nithish Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=n-k08&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
